@@ -13,6 +13,7 @@ public class CardOfferController {
 
     final CardOfferService cardOfferService;
     int test = 12;
+    int test = 22;
 
 
 
