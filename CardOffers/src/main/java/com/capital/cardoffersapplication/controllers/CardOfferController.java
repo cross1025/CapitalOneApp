@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CardOfferController {
 
     final CardOfferService cardOfferService;
+    int test = 12;
 
 
 
